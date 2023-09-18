@@ -18,9 +18,9 @@ body {
 .link {
   text-decoration: none;
 }
-.hide {
+/* .hide {
   display: none;
-}
+} */
 .main-title {
   color: var(--main-title-color);
   text-align: center;

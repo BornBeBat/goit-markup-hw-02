@@ -117,7 +117,8 @@ body {
 
   cursor: pointer;
 }
-.hero-button:hover {
+.hero-button:hover,
+.hero-button:focus {
   background-color: var(--hover-link);
 }
 
